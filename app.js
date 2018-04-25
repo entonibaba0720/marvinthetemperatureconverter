@@ -4,5 +4,4 @@ function marvinTheConverter () {
 	alert('Nice! Did you know that this is a swell ' + fahrenheit + ' degrees in Fahrenheit?');
 	return;
 }
-
 marvinTheConverter();
